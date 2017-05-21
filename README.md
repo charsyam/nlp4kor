@@ -8,7 +8,6 @@
 
 ## Season #1 2017.05 ~ 2017.07 (FFNN, CNN, word2vec)
 
-### 1. MNIST 예제 뜯어 보기 (Tensorflow 기초) - 박혜웅, 2017.05.20
-- https://github.com/bage79/nlp4kor/blob/master/ipynb/MNIST_2_cnn.ipynb 
+### 1. CNN for MNIST - 박혜웅, 2017.05.20
 - http://nbviewer.jupyter.org/github/bage79/nlp4kor/blob/master/ipynb/MNIST_2_cnn.ipynb
 -  
